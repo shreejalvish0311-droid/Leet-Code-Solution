@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0283-move-zeroes) |
+| [1480-running-sum-of-1d-array](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0316-remove-duplicate-letters) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
