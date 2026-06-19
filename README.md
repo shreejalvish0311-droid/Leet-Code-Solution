@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
