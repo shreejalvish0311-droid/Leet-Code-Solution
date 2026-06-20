@@ -1,12 +1,12 @@
 class Solution:
     def addDigits(self, num: int) -> int:
-        while num >= 10:
-            total = 0
+     
+        if num < 10:
+            return num
+            
+        def digitSum(n):
+            if n == 0:
+                return 0
+            return n % 10 + digitSum(n // 10)
 
-            while num > 0:
-                total += num % 10
-                num = num // 10
-
-            num = total
-
-        return num
+        return self.addDigits(digitSum(num))
