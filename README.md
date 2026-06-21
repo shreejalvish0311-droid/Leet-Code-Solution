@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0268-missing-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0283-move-zeroes) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreejalvish0311-droid/Leet-Code-Solution/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
